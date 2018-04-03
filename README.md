@@ -1,2 +1,2 @@
 # Kaggle_Titanic_First
-Super basic ML model which I learned watching many youtube videos to get a basic understanding about Python ML.
+A basic ML model and my first project to understand RandomForest Classification algorithm to get a hands on idea of ML models.
